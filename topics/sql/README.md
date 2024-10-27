@@ -17,7 +17,7 @@ Here are the 10 assignments that will help you master SQL concepts through pract
 1. **[Data Insertion and Foreign Keys](./assignment-1-data-insertion-foreign-keys/README.md)**  
    *Task*: Insert data into the `employees`, `departments`, and `locations` tables while handling foreign key relationships.  
    *Goal*: Learn how to insert data while maintaining relational integrity.
-
+File I/O
 2. **[Simple Query with Join](./assignment-2-simple-query-join/README.md)**  
    *Task*: Write a query to retrieve employee details along with their department name and location using joins.  
    *Goal*: Understand how to perform inner joins.
