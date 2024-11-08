@@ -14,8 +14,9 @@ This section covers basic to advanced file operations in Python and provides int
 
 1. **Basic Knowledge**
    - **Q1**: Describe the stack data structure and give a real-world example where it’s used.
-   - **Q2**: 
-   - **Q3**: 
+   - **Q2**: Could you describe a common use case for a queue in software systems?
+   - **Q3**: What is the time complexity of the push, pop, and peek operations in a stack data structure?
+   - **Q4**: What is the difference between a stack and a queue data structure?
 
 2. **Advanced...**
    - **Q4**:  
@@ -24,8 +25,11 @@ This section covers basic to advanced file operations in Python and provides int
 
 ## Exercises
 
-1. **Basic File Reading and Writing**
+1. **Stack & Queue Implementation**
    - Could you implement a stack using an array (or list) in your preferred language? Include methods for push, pop, and peek.
+   - Could you implement a queue using an array (or list) in your preferred language? Include methods for enqueue, dequeue, and peek.
+
+2. **File I/O**
 
 ## Code Samples
 
