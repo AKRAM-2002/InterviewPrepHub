@@ -28,8 +28,10 @@ This section covers basic to advanced file operations in Python and provides int
 1. **Stack & Queue Implementation**
    - Could you implement a stack using an array (or list) in your preferred language? Include methods for push, pop, and peek.
    - Could you implement a queue using an array (or list) in your preferred language? Include methods for enqueue, dequeue, and peek.
+   - Implement a stack using a linked list in your preferred language. Include methods for push, pop
+   - Could you implement a basic function to simulate a task queue that processes jobs in order, say for sending notifications?
 
-2. **File I/O**
+
 
 ## Code Samples
 
